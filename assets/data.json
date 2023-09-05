@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "genre": "Rock",
+        "durationInSeconds": 355
+    },
+    {
+        "id": 2,
+        "title": "Hotel California",
+        "artist": "Eagles",
+        "genre": "Rock",
+        "durationInSeconds": 391
+    },
+    {
+        "id": 3,
+        "title": "Imagine",
+        "artist": "John Lennon",
+        "genre": "Pop",
+        "durationInSeconds": 182
+    },
+    {
+        "id": 4,
+        "title": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "durationInSeconds": 302
+    },
+    {
+        "id": 5,
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "genre": "Pop",
+        "durationInSeconds": 294
+    },
+    {
+        "id": 6,
+        "title": "Very long song title - Boys Don't Cry",
+        "artist": "The Cure",
+        "genre": "Grunge",
+        "durationInSeconds": 162
+    },
+    {
+        "id": 7,
+        "title": "Purple Haze",
+        "artist": "Jimi Hendrix",
+        "genre": "Rock",
+        "durationInSeconds": 171
+    },
+    {
+        "id": 8,
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "durationInSeconds": 233
+    },
+    {
+        "id": 9,
+        "title": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "genre": "Rock",
+        "durationInSeconds": 482
+    },
+    {
+        "id": 10,
+        "title": "Like a Rolling Stone",
+        "artist": "Bob Dylan",
+        "genre": "Rock",
+        "durationInSeconds": 368
+    },
+    {
+        "id": 11,
+        "title": "Smooth",
+        "artist": "Santana",
+        "genre": "Rock",
+        "durationInSeconds": 288
+    },
+    {
+        "id": 12,
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "genre": "Grunge",
+        "durationInSeconds": 271
+    },
+    {
+        "id": 13,
+        "title": "Shape of My Heart",
+        "artist": "Sting",
+        "genre": "Pop",
+        "durationInSeconds": 261
+    },
+    {
+        "id": 14,
+        "title": "Yesterday",
+        "artist": "The Beatles",
+        "genre": "Rock",
+        "durationInSeconds": 126
+    },
+    {
+        "id": 15,
+        "title": "Wonderwall",
+        "artist": "Oasis",
+        "genre": "Rock",
+        "durationInSeconds": 258
+    }
+]
